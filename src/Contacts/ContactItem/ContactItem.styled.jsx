@@ -4,7 +4,7 @@ export const ItemContact = styled.li`
   display: flex;
   justify-content: space-between;
   margin-bottom: 10px;
-  width: 350px;
+  width: 450px;
 `;
 
 export const BtnDelete = styled.button`
